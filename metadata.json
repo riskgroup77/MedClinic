@@ -1,0 +1,6 @@
+{
+  "name": "MedClinic",
+  "description": "Premium Digital Experience - Cinematic Scrollytelling medical landing page, interactive appointment scheduler, client-side 3D cellular particle stage and generative AI-driven RAG clinical support desk.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
